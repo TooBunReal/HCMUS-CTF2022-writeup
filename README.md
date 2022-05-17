@@ -10,6 +10,7 @@
 
         ![image](https://user-images.githubusercontent.com/89735990/168855262-9f0db343-8fad-44eb-94f3-4c613a725dcf.png)
    - Vậy là chúng ta đã có flag ```HCMU{w0w_4uth3ntication_bYP4ss_s000_h4rd}```
+
 # MISC:
 ### SUPER SECRET.
    - Đọc đề xong mình để ý thấy tên anh Author nên mình check tên anh trên discord và đúng là có link lạ: ```https://pastebin.com/LsNtJMke```
@@ -24,9 +25,12 @@
    - Thử dowload tấm ảnh trên Tin Nhắn về và WOW tấm ảnh chính là Secret:
         ![image](https://user-images.githubusercontent.com/89735990/168858469-7658453d-429b-4522-90d3-6089204b6a8d.png)
    - Flag : ```HCMUS-CTF{c291872ada763ed9a480eca240552890}```   
+
 # PWN:
 ### PRINTME.
 ![image](https://user-images.githubusercontent.com/89735990/168860364-3e6c4647-70be-47e7-8392-2a360cd68938.png)
+
+
 
    
  
