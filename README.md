@@ -13,7 +13,7 @@
 
 # MISC:
 ### SUPER SECRET.
-   - Đọc đề xong mình để ý thấy tên anh Author nên mình check tên anh trên discord và đúng là có link lạ: ```https://pastebin.com/LsNtJMke```
+   - Đọc đề xong mình để ý thấy tên anh Author nên mình check tên anh trên discord và đúng là có link lạ: https://pastebin.com/LsNtJMke
         ![image](https://user-images.githubusercontent.com/89735990/168856972-679a568f-b09a-40fc-b0a4-a6aac915ce25.png)
          
    - Thử Click vào  thì mình tìm được Flag nhưng nó là Rick Roll =)))
